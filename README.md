@@ -1,7 +1,7 @@
 # Tableau
 U of MN Data Visualization &amp; Analytics: Tableau Homework #20 - Citi Bike Analytics
 
-Data Preparation
+## Data Preparation
 The csv files of raw data for the New York Citi Bike Program were download from https://s3.amazonaws.com/tripdata/index.html.  
 
 CitiBikeData.ipynb
@@ -13,4 +13,4 @@ To inspect the data, a dataframe was created to determine the size and dimenions
 
 
 
-Visualizations and Analysis
+## Visualizations and Analysis
