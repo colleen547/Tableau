@@ -12,6 +12,7 @@ The following columns were renamed, trip duration, start time, stop time, bike i
     
 Finally, the transformed data was saved as **`combined_bike_data.csv`**.
 
-**`__IMPORTANT__`**
+**`IMPORTANT`**
+Before running **`CitiBikeData.ipynb`**, delete **`combined_csv.csv`** and **`combined_bike_data.csv`** because both files are recreated by the code contained in **`CitiBikeData.ipynb`**
 
 ## Visualizations and Analysis
