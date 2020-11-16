@@ -2,7 +2,7 @@
 U of MN Data Visualization &amp; Analytics: Tableau Homework #20 - Citi Bike Analytics
 
 ## Data Inspection & Cleaning
-CSV files of raw data for the New York Citi Bike Program were extracted from https://s3.amazonaws.com/tripdata/index.html.
+Multiple csv files of New York Citi Bike Program data were extracted from https://s3.amazonaws.com/tripdata/index.html.
 
 A Jupyter Notebook, CitiBikeData.ipynb, was created to inspect and clean the data. Using glob and 8 lines of code, multiple csv files of raw data were combined (see source in .ipynb file for reference) and saved into one file, combined_csv.csv.
 
